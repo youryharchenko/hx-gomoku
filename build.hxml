@@ -1,0 +1,7 @@
+-cp Source
+-D analyzer-optimize
+--interp
+-lib openfl
+-lib lime
+-lib haxeui-core
+-lib haxeui-openfl
