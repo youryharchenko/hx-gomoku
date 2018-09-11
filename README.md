@@ -1,2 +1,2 @@
 # hx-gomoku
-Haxe, OpenFL implementation for Gomoku
+Gomoku. Haxe, OpenFL implementation. 
